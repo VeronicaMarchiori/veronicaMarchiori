@@ -31,23 +31,25 @@ My name is Veronica and I am a student of computer science at UFFS. I Love codin
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 </div>
 
-<div  align="left" >
+<div  align="center" >
   
 ### Meus perfis Sociais 💼
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronicamarchioriribeiro/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicamarchiorir@gmail.com)
 </div>
 
-<div align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeronicaMarchiori&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="170em" src="https://streak-stats.demolab.com?user=VeronicaMarchiori&theme=tokyonight"/>
-</div>
+<div align="center">
+
 ## 🐍 Always learning, Always building
-<div align="left">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VeronicaMarchiori/VeronicaMarchiori/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VeronicaMarchiori/VeronicaMarchiori/output/snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/VeronicaMarchiori/VeronicaMarchiori/output/snake.svg">
 </picture>
 #
+</div>
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeronicaMarchiori&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=VeronicaMarchiori&theme=tokyonight"/>
 </div>
