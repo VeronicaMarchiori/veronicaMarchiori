@@ -1,19 +1,26 @@
-### Hii there, how are you? / Olá, tudo bem?? 🤓
-<div style=" display:inline_block">
+<div align="center">
+  
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpkNmx3eXcwdnB6enExbWhkdmkyaHlxdWdvZDQ5bTJnYzhpd2x1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VJTAhOzkmy7620OMK8/giphy.gif" width="30"/> Hii there, how are you? / Olá, tudo bem?? 🤓
+</div>
+<div align="left">
 Meu nome é Veronica e sou estudante de ciências da computação na UFFS. Sou apaixonada por programação e estou sempre por aqui commitando vez ou outra nos meus projetos pessoais e da universidade. Minha tecnologia favorita atualmente é o JS, estou quase sempre fazendo alguma coisa usando ele. Fique a vontade para explorar meu perfil e meus repositórios! 
 <br><br>
 <i>
 My name is Veronica and I am a student of computer science at UFFS. I Love coding, and I'm always here on git tinkering on my projects, would they be university projects or personal projects, it doesn't matter, there's always one or another commit. My favorite tech nowadays is JS, so I am almost always doing something with it. Feel free to explore my profile and my repositories!!</i>
 </div>
 
-### Most Used technologies / Tecnologias mais Utilizadas 🖥️
-<div align="left">
+#
+
+<div align="center">
+  
+## Most Used technologies / Tecnologias mais Utilizadas 🖥️
   
 ### 💻 Frontend  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
 ### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -31,25 +38,26 @@ My name is Veronica and I am a student of computer science at UFFS. I Love codin
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 </div>
 
+#
 <div  align="center" >
   
-### Meus perfis Sociais 💼
+### Social 💼
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronicamarchioriribeiro/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicamarchiorir@gmail.com)
 </div>
 
+#
+
 <div align="center">
 
-## 🐍 Always learning, Always building
+### 🐍 Always learning, Always building...
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VeronicaMarchiori/VeronicaMarchiori/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VeronicaMarchiori/VeronicaMarchiori/output/snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/VeronicaMarchiori/VeronicaMarchiori/output/snake.svg">
 </picture>
-#
-</div>
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeronicaMarchiori&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="170em" src="https://streak-stats.demolab.com?user=VeronicaMarchiori&theme=tokyonight"/>
+#
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeronicaMarchiori&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=VeronicaMarchiori&theme=tokyonight"/>
 </div>
