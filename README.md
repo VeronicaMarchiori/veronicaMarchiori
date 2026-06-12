@@ -23,3 +23,9 @@ My name is Veronica, i'm 25yo and a student of computer science at UFFS. I Love 
 <img align="center" alt="Logo Linkedin Veronica" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VeronicaMarchiori/VeronicaMarchiori/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VeronicaMarchiori/VeronicaMarchiori/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/VeronicaMarchiori/VeronicaMarchiori/output/snake.svg">
+</picture>
