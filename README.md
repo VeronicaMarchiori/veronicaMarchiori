@@ -58,6 +58,6 @@ My name is Veronica and I am a student of computer science at UFFS. I Love codin
 </picture>
 
 #
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeronicaMarchiori&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VeronicaMarchiori&layout=compact&langs_count=8&theme=tokyonight"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=VeronicaMarchiori&theme=tokyonight"/>
 </div>
